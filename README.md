@@ -17,8 +17,8 @@
 
 
 ## Demo (Redacted/Simulated)
-![Landing page](./assets/landing-page.png)
-![Conference Page demo](./assets/paper-upload.gif)
+![Landing page](./assets/Screenshot 2025-10-02 134000.png)
+![Conference Page demo](./assets/Screen Recording 2025-10-02 134535.mp4)
 
 
 ## My Responsibilities
