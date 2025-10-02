@@ -17,8 +17,9 @@
 
 
 ## Demo (Redacted/Simulated)
-- Short Loom walkthrough (no sensitive data).  
-- Screenshots in `/assets` with anonymized names, blurred emails, and redacted IDs.
+![Landing page](./assets/landing-page.png)
+![Conference Page demo](./assets/paper-upload.gif)
+
 
 ## My Responsibilities
 - Requirements discovery, stakeholder interviews.
