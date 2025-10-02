@@ -15,12 +15,6 @@
 - **Efficiency:** Time to publish decreased from days → **hours** (editor workflow).
 - **Traffic:** Month‑over‑month growth after launch (redacted metrics).
 
-
-## Demo (Redacted/Simulated)
-![Landing page](./assets/Screenshot 2025-10-02 134000.png)
-![Conference Page demo](./assets/Screen Recording 2025-10-02 134535.mp4)
-
-
 ## My Responsibilities
 - Requirements discovery, stakeholder interviews.
 - System design: authentication, roles & permissions, content schema, and migrations.
